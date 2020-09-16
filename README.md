@@ -19,3 +19,6 @@ https://github.com/salesforce/TransmogrifAI
 Datasets que o TransmogrifAI:
 https://github.com/salesforce/TransmogrifAI/tree/master/helloworld/src/main/resources
 
+Exportar resultados:
+http://clouddatafacts.com/transmogrifai/simple_regression.html
+
