@@ -16,7 +16,7 @@ https://docs.scala-lang.org/overviews/scala-book/introduction.html
 TransmogrifAI:
 https://github.com/salesforce/TransmogrifAI
 
-Datasets que o TransmogrifAI:
+Datasets que o TransmogrifAI fornece:
 https://github.com/salesforce/TransmogrifAI/tree/master/helloworld/src/main/resources
 
 Exportar resultados:
